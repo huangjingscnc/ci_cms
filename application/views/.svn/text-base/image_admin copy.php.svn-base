@@ -1,0 +1,3 @@
+<?php
+include "../js/tiny_mce/plugins/tinybrowser/tinybrowser.php?type=image&feid=manageimages";
+?>

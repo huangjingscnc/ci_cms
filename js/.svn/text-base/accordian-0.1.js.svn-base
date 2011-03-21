@@ -1,0 +1,80 @@
+/*
+Instructions:
+for horizontal dropdown lists choose style:"dropdown"
+*/
+(function($){
+	$.fn.accordian = function(options) {
+		
+		var
+		  defaults = {
+		  	speed: 5000,
+		  	dontslide: ".dontslide",
+		  	ease: "swing",
+		  	style: "accordian"
+		  },
+		  settings = $.extend({}, defaults, options);
+		  
+		  this.each(function() {
+		  	
+		  	var $this = $(this);
+		  	var buttons = $this.children("li");
+		  	var hiddenmenus = $(buttons).children("ul");
+		  	$(hiddenmenus).parent("li").addClass("hasSub");
+		  	$(hiddenmenus).addClass('HIDDEN_MENU');
+	
+		  	$(hiddenmenus).not(settings.dontslide).hide();
+    		$('.hasSub').css({"cursor":"pointer"});
+    		
+    		
+    		if (settings.style == "accordian"){
+    		$('.hasSub a:first').click(function () {
+               
+               var parent = $(this);
+               var parentclass = $(this).attr("class");
+               var item = $(this).parent("li").children("ul");
+               
+               if ($(this).is(".open")){
+               		$(this).stop(true, true).removeClass("open", function(){
+               			 $(this).stop(true, true).children('ul').slideUp(settings.speed, settings.ease);
+               		});
+               }
+               else{
+               $(".open").removeClass("open");
+               $(this).stop(true, true).addClass("open",function(){
+               	$(hiddenmenus).not(settings.dontslide).stop(true, true).slideUp(settings.speed, settings.ease);
+               $(item).stop(true, true).slideDown(settings.speed, settings.ease);
+               });
+
+               
+               }return false;
+             });
+    		}
+    		
+    		if (settings.style == "dropdown"){
+    		$('.hasSub').each(function () {
+		               $(this).hover(function(){
+							var parent = $(this);
+							var parentclass = $(this).attr("class");
+							var item = $(this).children("ul");
+							
+							if ($(this).is(".open")){
+							$(this).removeClass("open");
+							$(this).children('ul').slideUp(settings.speed, settings.ease);
+							}
+							else{
+							$(".open").removeClass("open");
+							$(this).addClass("open");
+							$(hiddenmenus).not(settings.dontslide).slideUp(settings.speed, settings.ease);
+							
+							$(item).stop(true, true).slideDown(settings.speed, settings.ease);
+							
+							}
+		               
+		               });
+               
+             });
+    		}
+    				
+		  });return this;
+	};
+})(jQuery);

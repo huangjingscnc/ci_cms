@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/andyprice/!svn/ver/7/trunk/js/tiny_mce/classes/commands
+END
+InsertHorizontalRule.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/andyprice/!svn/ver/7/trunk/js/tiny_mce/classes/commands/InsertHorizontalRule.js
+END
+RemoveFormat.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/andyprice/!svn/ver/7/trunk/js/tiny_mce/classes/commands/RemoveFormat.js
+END
+BlockQuote.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/andyprice/!svn/ver/7/trunk/js/tiny_mce/classes/commands/BlockQuote.js
+END
+UndoRedo.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/andyprice/!svn/ver/7/trunk/js/tiny_mce/classes/commands/UndoRedo.js
+END
+CutCopyPaste.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/andyprice/!svn/ver/7/trunk/js/tiny_mce/classes/commands/CutCopyPaste.js
+END

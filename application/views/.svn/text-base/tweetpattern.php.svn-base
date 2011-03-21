@@ -1,0 +1,13 @@
+<?php
+
+foreach ($tweets as $row):
+
+			echo "<div class='tweet'>";
+
+			echo "<img alt='avatar' title='avatar' src='".$row->user->profile_image_url."' class=''/>";
+
+			echo "<h4>".$row->user->name."</h4>";
+			echo "<p>$row->text</p></div>";
+
+	endforeach;
+?>

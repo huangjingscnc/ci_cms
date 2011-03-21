@@ -1,0 +1,212 @@
+2010-06-03 02:26:47 (BST)	2 Warning	mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists	File: fns_tinybrowser.php	Line: 5	
+2010-06-03 02:26:47 (BST)	2 Warning	mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists	File: fns_tinybrowser.php	Line: 5	
+2010-06-03 02:26:47 (BST)	2 Warning	mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists	File: fns_tinybrowser.php	Line: 5	
+2010-06-03 02:26:47 (BST)	2 Warning	mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists	File: fns_tinybrowser.php	Line: 5	
+2010-06-03 02:26:47 (BST)	2 Warning	mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists	File: fns_tinybrowser.php	Line: 5	
+2010-06-03 02:26:47 (BST)	2 Warning	opendir(/Applications/MAMPhttp://space-dog.homedns.org/oxfordshire/oxfordshire/uploads/images/) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory	File: fns_tinybrowser.php	Line: 363	
+2010-06-03 02:26:47 (BST)	2 Warning	readdir(): supplied argument is not a valid Directory resource	File: fns_tinybrowser.php	Line: 364	
+2010-06-03 02:26:47 (BST)	2 Warning	closedir(): supplied argument is not a valid Directory resource	File: fns_tinybrowser.php	Line: 380	
+2010-06-03 02:26:57 (BST)	2 Warning	opendir(/Applications/MAMPhttp://space-dog.homedns.org/oxfordshire/oxfordshire/uploads/images/) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory	File: fns_tinybrowser.php	Line: 363	
+2010-06-03 02:26:57 (BST)	2 Warning	readdir(): supplied argument is not a valid Directory resource	File: fns_tinybrowser.php	Line: 364	
+2010-06-03 02:26:57 (BST)	2 Warning	closedir(): supplied argument is not a valid Directory resource	File: fns_tinybrowser.php	Line: 380	
+2010-06-03 02:27:25 (BST)	8 Notice	Undefined variable: success	File: upload_file.php	Line: 35	
+2010-06-03 02:29:24 (BST)	2 Warning	mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists	File: fns_tinybrowser.php	Line: 5	
+2010-06-03 02:29:24 (BST)	2 Warning	mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists	File: fns_tinybrowser.php	Line: 5	
+2010-06-03 02:29:24 (BST)	2 Warning	mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists	File: fns_tinybrowser.php	Line: 5	
+2010-06-03 02:29:24 (BST)	2 Warning	mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists	File: fns_tinybrowser.php	Line: 5	
+2010-06-03 02:29:24 (BST)	2 Warning	mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists	File: fns_tinybrowser.php	Line: 5	
+2010-06-03 02:29:24 (BST)	2 Warning	opendir(/Applications/MAMPhttp://space-dog.homedns.org/oxfordshire/oxfordshire/uploads/images/) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory	File: fns_tinybrowser.php	Line: 363	
+2010-06-03 02:29:24 (BST)	2 Warning	readdir(): supplied argument is not a valid Directory resource	File: fns_tinybrowser.php	Line: 364	
+2010-06-03 02:29:24 (BST)	2 Warning	closedir(): supplied argument is not a valid Directory resource	File: fns_tinybrowser.php	Line: 380	
+2010-06-03 02:29:33 (BST)	2 Warning	mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists	File: fns_tinybrowser.php	Line: 5	
+2010-06-03 02:29:33 (BST)	2 Warning	mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists	File: fns_tinybrowser.php	Line: 5	
+2010-06-03 02:29:33 (BST)	2 Warning	mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists	File: fns_tinybrowser.php	Line: 5	
+2010-06-03 02:29:33 (BST)	2 Warning	mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists	File: fns_tinybrowser.php	Line: 5	
+2010-06-03 02:29:33 (BST)	2 Warning	mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists	File: fns_tinybrowser.php	Line: 5	
+2010-06-03 02:29:33 (BST)	2 Warning	opendir(/Applications/MAMPhttp://space-dog.homedns.org/oxfordshire/oxfordshire/uploads/images/) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory	File: fns_tinybrowser.php	Line: 363	
+2010-06-03 02:29:33 (BST)	2 Warning	readdir(): supplied argument is not a valid Directory resource	File: fns_tinybrowser.php	Line: 364	
+2010-06-03 02:29:33 (BST)	2 Warning	closedir(): supplied argument is not a valid Directory resource	File: fns_tinybrowser.php	Line: 380	
+2010-06-03 02:29:37 (BST)	2 Warning	opendir(/Applications/MAMPhttp://space-dog.homedns.org/oxfordshire/oxfordshire/uploads/images/) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory	File: fns_tinybrowser.php	Line: 363	
+2010-06-03 02:29:37 (BST)	2 Warning	readdir(): supplied argument is not a valid Directory resource	File: fns_tinybrowser.php	Line: 364	
+2010-06-03 02:29:37 (BST)	2 Warning	closedir(): supplied argument is not a valid Directory resource	File: fns_tinybrowser.php	Line: 380	
+2010-06-03 02:29:39 (BST)	2 Warning	mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists	File: fns_tinybrowser.php	Line: 5	
+2010-06-03 02:29:39 (BST)	2 Warning	mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists	File: fns_tinybrowser.php	Line: 5	
+2010-06-03 02:29:39 (BST)	2 Warning	mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists	File: fns_tinybrowser.php	Line: 5	
+2010-06-03 02:29:39 (BST)	2 Warning	mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists	File: fns_tinybrowser.php	Line: 5	
+2010-06-03 02:29:39 (BST)	2 Warning	mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists	File: fns_tinybrowser.php	Line: 5	
+2010-06-03 02:29:39 (BST)	2 Warning	opendir(/Applications/MAMPhttp://space-dog.homedns.org/oxfordshire/oxfordshire/uploads/images/) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory	File: fns_tinybrowser.php	Line: 363	
+2010-06-03 02:29:39 (BST)	2 Warning	readdir(): supplied argument is not a valid Directory resource	File: fns_tinybrowser.php	Line: 364	
+2010-06-03 02:29:39 (BST)	2 Warning	closedir(): supplied argument is not a valid Directory resource	File: fns_tinybrowser.php	Line: 380	
+2010-06-03 02:29:49 (BST)	2 Warning	mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists	File: fns_tinybrowser.php	Line: 5	
+2010-06-03 02:29:49 (BST)	2 Warning	mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists	File: fns_tinybrowser.php	Line: 5	
+2010-06-03 02:29:49 (BST)	2 Warning	mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists	File: fns_tinybrowser.php	Line: 5	
+2010-06-03 02:29:49 (BST)	2 Warning	mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists	File: fns_tinybrowser.php	Line: 5	
+2010-06-03 02:29:49 (BST)	2 Warning	mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists	File: fns_tinybrowser.php	Line: 5	
+2010-06-03 02:29:49 (BST)	2 Warning	opendir(/Applications/MAMPhttp://space-dog.homedns.org/oxfordshire/oxfordshire/uploads/images/) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory	File: fns_tinybrowser.php	Line: 363	
+2010-06-03 02:29:49 (BST)	2 Warning	readdir(): supplied argument is not a valid Directory resource	File: fns_tinybrowser.php	Line: 364	
+2010-06-03 02:29:49 (BST)	2 Warning	closedir(): supplied argument is not a valid Directory resource	File: fns_tinybrowser.php	Line: 380	
+2010-06-03 02:30:31 (BST)	2 Warning	mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists	File: fns_tinybrowser.php	Line: 5	
+2010-06-03 02:30:31 (BST)	2 Warning	mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists	File: fns_tinybrowser.php	Line: 5	
+2010-06-03 02:30:31 (BST)	2 Warning	mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists	File: fns_tinybrowser.php	Line: 5	
+2010-06-03 02:30:31 (BST)	2 Warning	mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists	File: fns_tinybrowser.php	Line: 5	
+2010-06-03 02:30:31 (BST)	2 Warning	mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists	File: fns_tinybrowser.php	Line: 5	
+2010-06-03 02:30:31 (BST)	2 Warning	mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists	File: fns_tinybrowser.php	Line: 5	
+2010-06-03 02:30:31 (BST)	2 Warning	opendir(/Applications/MAMPhttp://space-dog.homedns.org/oxfordshire/uploads/images/) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory	File: fns_tinybrowser.php	Line: 363	
+2010-06-03 02:30:31 (BST)	2 Warning	readdir(): supplied argument is not a valid Directory resource	File: fns_tinybrowser.php	Line: 364	
+2010-06-03 02:30:31 (BST)	2 Warning	closedir(): supplied argument is not a valid Directory resource	File: fns_tinybrowser.php	Line: 380	
+2010-06-03 02:30:38 (BST)	2 Warning	opendir(/Applications/MAMPhttp://space-dog.homedns.org/oxfordshire/uploads/images/) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory	File: fns_tinybrowser.php	Line: 363	
+2010-06-03 02:30:38 (BST)	2 Warning	readdir(): supplied argument is not a valid Directory resource	File: fns_tinybrowser.php	Line: 364	
+2010-06-03 02:30:38 (BST)	2 Warning	closedir(): supplied argument is not a valid Directory resource	File: fns_tinybrowser.php	Line: 380	
+2010-06-03 02:30:53 (BST)	8 Notice	Undefined variable: success	File: upload_file.php	Line: 35	
+2010-06-03 02:30:56 (BST)	2 Warning	opendir(/Applications/MAMPhttp://space-dog.homedns.org/oxfordshire/uploads/images/) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory	File: fns_tinybrowser.php	Line: 363	
+2010-06-03 02:30:56 (BST)	2 Warning	readdir(): supplied argument is not a valid Directory resource	File: fns_tinybrowser.php	Line: 364	
+2010-06-03 02:30:56 (BST)	2 Warning	closedir(): supplied argument is not a valid Directory resource	File: fns_tinybrowser.php	Line: 380	
+2010-06-03 02:30:58 (BST)	2 Warning	opendir(/Applications/MAMPhttp://space-dog.homedns.org/oxfordshire/uploads/images/) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory	File: edit.php	Line: 243	
+2010-06-03 02:30:58 (BST)	2 Warning	readdir(): supplied argument is not a valid Directory resource	File: edit.php	Line: 245	
+2010-06-03 02:30:58 (BST)	2 Warning	closedir(): supplied argument is not a valid Directory resource	File: edit.php	Line: 283	
+2010-06-03 02:30:58 (BST)	2 Warning	opendir(/Applications/MAMPhttp://space-dog.homedns.org/oxfordshire/uploads/images/) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory	File: fns_tinybrowser.php	Line: 363	
+2010-06-03 02:30:58 (BST)	2 Warning	readdir(): supplied argument is not a valid Directory resource	File: fns_tinybrowser.php	Line: 364	
+2010-06-03 02:30:58 (BST)	2 Warning	closedir(): supplied argument is not a valid Directory resource	File: fns_tinybrowser.php	Line: 380	
+2010-06-03 02:31:00 (BST)	2 Warning	opendir(/Applications/MAMPhttp://space-dog.homedns.org/oxfordshire/uploads/images/) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory	File: fns_tinybrowser.php	Line: 363	
+2010-06-03 02:31:00 (BST)	2 Warning	readdir(): supplied argument is not a valid Directory resource	File: fns_tinybrowser.php	Line: 364	
+2010-06-03 02:31:00 (BST)	2 Warning	closedir(): supplied argument is not a valid Directory resource	File: fns_tinybrowser.php	Line: 380	
+2010-06-03 02:31:02 (BST)	2 Warning	mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists	File: fns_tinybrowser.php	Line: 5	
+2010-06-03 02:31:02 (BST)	2 Warning	mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists	File: fns_tinybrowser.php	Line: 5	
+2010-06-03 02:31:02 (BST)	2 Warning	mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists	File: fns_tinybrowser.php	Line: 5	
+2010-06-03 02:31:02 (BST)	2 Warning	mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists	File: fns_tinybrowser.php	Line: 5	
+2010-06-03 02:31:02 (BST)	2 Warning	opendir(/Applications/MAMPhttp://space-dog.homedns.org/oxfordshire/uploads/images/) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory	File: fns_tinybrowser.php	Line: 363	
+2010-06-03 02:31:02 (BST)	2 Warning	readdir(): supplied argument is not a valid Directory resource	File: fns_tinybrowser.php	Line: 364	
+2010-06-03 02:31:02 (BST)	2 Warning	closedir(): supplied argument is not a valid Directory resource	File: fns_tinybrowser.php	Line: 380	
+2010-06-03 02:31:04 (BST)	2 Warning	opendir(/Applications/MAMPhttp://space-dog.homedns.org/oxfordshire/uploads/images/) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory	File: fns_tinybrowser.php	Line: 363	
+2010-06-03 02:31:04 (BST)	2 Warning	readdir(): supplied argument is not a valid Directory resource	File: fns_tinybrowser.php	Line: 364	
+2010-06-03 02:31:04 (BST)	2 Warning	closedir(): supplied argument is not a valid Directory resource	File: fns_tinybrowser.php	Line: 380	
+2010-06-03 02:31:08 (BST)	2 Warning	mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists	File: fns_tinybrowser.php	Line: 5	
+2010-06-03 02:31:08 (BST)	2 Warning	mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists	File: fns_tinybrowser.php	Line: 5	
+2010-06-03 02:31:08 (BST)	2 Warning	mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists	File: fns_tinybrowser.php	Line: 5	
+2010-06-03 02:31:08 (BST)	2 Warning	mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists	File: fns_tinybrowser.php	Line: 5	
+2010-06-03 02:31:08 (BST)	2 Warning	opendir(/Applications/MAMPhttp://space-dog.homedns.org/oxfordshire/uploads/images/) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory	File: fns_tinybrowser.php	Line: 363	
+2010-06-03 02:31:08 (BST)	2 Warning	readdir(): supplied argument is not a valid Directory resource	File: fns_tinybrowser.php	Line: 364	
+2010-06-03 02:31:08 (BST)	2 Warning	closedir(): supplied argument is not a valid Directory resource	File: fns_tinybrowser.php	Line: 380	
+2010-06-03 02:31:09 (BST)	2 Warning	opendir(/Applications/MAMPhttp://space-dog.homedns.org/oxfordshire/uploads/images/) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory	File: fns_tinybrowser.php	Line: 363	
+2010-06-03 02:31:09 (BST)	2 Warning	readdir(): supplied argument is not a valid Directory resource	File: fns_tinybrowser.php	Line: 364	
+2010-06-03 02:31:09 (BST)	2 Warning	closedir(): supplied argument is not a valid Directory resource	File: fns_tinybrowser.php	Line: 380	
+2010-06-03 02:32:14 (BST)	2 Warning	mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists	File: fns_tinybrowser.php	Line: 5	
+2010-06-03 02:32:14 (BST)	2 Warning	mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists	File: fns_tinybrowser.php	Line: 5	
+2010-06-03 02:32:14 (BST)	2 Warning	mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists	File: fns_tinybrowser.php	Line: 5	
+2010-06-03 02:32:14 (BST)	2 Warning	mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists	File: fns_tinybrowser.php	Line: 5	
+2010-06-03 02:32:14 (BST)	2 Warning	opendir(/Applications/MAMPhttp://space-dog.homedns.org/oxfordshire/uploads/images/) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory	File: fns_tinybrowser.php	Line: 363	
+2010-06-03 02:32:14 (BST)	2 Warning	readdir(): supplied argument is not a valid Directory resource	File: fns_tinybrowser.php	Line: 364	
+2010-06-03 02:32:14 (BST)	2 Warning	closedir(): supplied argument is not a valid Directory resource	File: fns_tinybrowser.php	Line: 380	
+2010-06-03 02:33:04 (BST)	2 Warning	mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists	File: fns_tinybrowser.php	Line: 5	
+2010-06-03 02:33:04 (BST)	2 Warning	mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists	File: fns_tinybrowser.php	Line: 5	
+2010-06-03 02:33:04 (BST)	2 Warning	mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists	File: fns_tinybrowser.php	Line: 5	
+2010-06-03 02:33:04 (BST)	2 Warning	mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists	File: fns_tinybrowser.php	Line: 5	
+2010-06-03 02:33:04 (BST)	2 Warning	opendir(/Applications/MAMPhttp://space-dog.homedns.org/oxfordshire/uploads/images/) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory	File: fns_tinybrowser.php	Line: 363	
+2010-06-03 02:33:04 (BST)	2 Warning	readdir(): supplied argument is not a valid Directory resource	File: fns_tinybrowser.php	Line: 364	
+2010-06-03 02:33:04 (BST)	2 Warning	closedir(): supplied argument is not a valid Directory resource	File: fns_tinybrowser.php	Line: 380	
+2010-06-03 02:33:15 (BST)	2 Warning	mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists	File: fns_tinybrowser.php	Line: 5	
+2010-06-03 02:33:15 (BST)	2 Warning	mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists	File: fns_tinybrowser.php	Line: 5	
+2010-06-03 02:33:15 (BST)	2 Warning	mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists	File: fns_tinybrowser.php	Line: 5	
+2010-06-03 02:33:15 (BST)	2 Warning	mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists	File: fns_tinybrowser.php	Line: 5	
+2010-06-03 02:33:15 (BST)	2 Warning	opendir(/Applications/MAMPhttp://space-dog.homedns.org/oxfordshire/uploads/images/) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory	File: fns_tinybrowser.php	Line: 363	
+2010-06-03 02:33:15 (BST)	2 Warning	readdir(): supplied argument is not a valid Directory resource	File: fns_tinybrowser.php	Line: 364	
+2010-06-03 02:33:15 (BST)	2 Warning	closedir(): supplied argument is not a valid Directory resource	File: fns_tinybrowser.php	Line: 380	
+2010-06-03 02:34:05 (BST)	2 Warning	mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists	File: fns_tinybrowser.php	Line: 5	
+2010-06-03 02:34:05 (BST)	2 Warning	mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists	File: fns_tinybrowser.php	Line: 5	
+2010-06-03 02:34:05 (BST)	2 Warning	mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists	File: fns_tinybrowser.php	Line: 5	
+2010-06-03 02:34:05 (BST)	2 Warning	mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists	File: fns_tinybrowser.php	Line: 5	
+2010-06-03 02:34:05 (BST)	2 Warning	opendir(/Applications/MAMPhttp://localhost/oxfordshire/uploads/images/) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory	File: fns_tinybrowser.php	Line: 363	
+2010-06-03 02:34:05 (BST)	2 Warning	readdir(): supplied argument is not a valid Directory resource	File: fns_tinybrowser.php	Line: 364	
+2010-06-03 02:34:05 (BST)	2 Warning	closedir(): supplied argument is not a valid Directory resource	File: fns_tinybrowser.php	Line: 380	
+2010-06-03 02:34:09 (BST)	2 Warning	opendir(/Applications/MAMPhttp://localhost/oxfordshire/uploads/images/) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory	File: fns_tinybrowser.php	Line: 363	
+2010-06-03 02:34:09 (BST)	2 Warning	readdir(): supplied argument is not a valid Directory resource	File: fns_tinybrowser.php	Line: 364	
+2010-06-03 02:34:09 (BST)	2 Warning	closedir(): supplied argument is not a valid Directory resource	File: fns_tinybrowser.php	Line: 380	
+2010-06-03 02:34:23 (BST)	8 Notice	Undefined variable: success	File: upload_file.php	Line: 35	
+2010-06-03 02:34:40 (BST)	2 Warning	opendir(/Applications/MAMPhttp://localhost/oxfordshire/uploads/images/) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory	File: fns_tinybrowser.php	Line: 363	
+2010-06-03 02:34:40 (BST)	2 Warning	readdir(): supplied argument is not a valid Directory resource	File: fns_tinybrowser.php	Line: 364	
+2010-06-03 02:34:40 (BST)	2 Warning	closedir(): supplied argument is not a valid Directory resource	File: fns_tinybrowser.php	Line: 380	
+2010-06-03 02:34:42 (BST)	2 Warning	opendir(/Applications/MAMPhttp://localhost/oxfordshire/uploads/images/) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory	File: edit.php	Line: 243	
+2010-06-03 02:34:42 (BST)	2 Warning	readdir(): supplied argument is not a valid Directory resource	File: edit.php	Line: 245	
+2010-06-03 02:34:42 (BST)	2 Warning	closedir(): supplied argument is not a valid Directory resource	File: edit.php	Line: 283	
+2010-06-03 02:34:42 (BST)	2 Warning	opendir(/Applications/MAMPhttp://localhost/oxfordshire/uploads/images/) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory	File: fns_tinybrowser.php	Line: 363	
+2010-06-03 02:34:42 (BST)	2 Warning	readdir(): supplied argument is not a valid Directory resource	File: fns_tinybrowser.php	Line: 364	
+2010-06-03 02:34:42 (BST)	2 Warning	closedir(): supplied argument is not a valid Directory resource	File: fns_tinybrowser.php	Line: 380	
+2010-06-03 02:34:43 (BST)	2 Warning	mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists	File: fns_tinybrowser.php	Line: 5	
+2010-06-03 02:34:43 (BST)	2 Warning	mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists	File: fns_tinybrowser.php	Line: 5	
+2010-06-03 02:34:43 (BST)	2 Warning	mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists	File: fns_tinybrowser.php	Line: 5	
+2010-06-03 02:34:43 (BST)	2 Warning	mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists	File: fns_tinybrowser.php	Line: 5	
+2010-06-03 02:34:43 (BST)	2 Warning	opendir(/Applications/MAMPhttp://localhost/oxfordshire/uploads/images/) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory	File: fns_tinybrowser.php	Line: 363	
+2010-06-03 02:34:43 (BST)	2 Warning	readdir(): supplied argument is not a valid Directory resource	File: fns_tinybrowser.php	Line: 364	
+2010-06-03 02:34:43 (BST)	2 Warning	closedir(): supplied argument is not a valid Directory resource	File: fns_tinybrowser.php	Line: 380	
+2010-06-03 02:42:20 (BST)	2 Warning	rename(/Applications/MAMP../htdocs/oxfordshire/uploads/images_mg_5994.jpg_,/Applications/MAMP../htdocs/oxfordshire/uploads/images_mg_5994.jpg) [<a href='function.rename'>function.rename</a>]: No such file or directory	File: upload_process.php	Line: 41	
+2010-06-03 02:42:20 (BST)	2 Warning	getimagesize(/Applications/MAMP../htdocs/oxfordshire/uploads/images_mg_5994.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory	File: upload_process.php	Line: 48	
+2010-06-03 02:42:20 (BST)	2 Warning	unlink(/Applications/MAMP../htdocs/oxfordshire/uploads/images_mg_5994.jpg) [<a href='function.unlink'>function.unlink</a>]: No such file or directory	File: upload_process.php	Line: 49	
+2010-06-03 02:48:30 (BST)	2 Warning	rename(/Applications/MAMP/htdocs/oxfordshire/uploads/images_mg_5994.jpg_,/Applications/MAMP/htdocs/oxfordshire/uploads/images_mg_5994.jpg) [<a href='function.rename'>function.rename</a>]: No such file or directory	File: upload_process.php	Line: 41	
+2010-06-03 02:48:30 (BST)	2 Warning	getimagesize(/Applications/MAMP/htdocs/oxfordshire/uploads/images_mg_5994.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory	File: upload_process.php	Line: 48	
+2010-06-03 02:48:30 (BST)	2 Warning	unlink(/Applications/MAMP/htdocs/oxfordshire/uploads/images_mg_5994.jpg) [<a href='function.unlink'>function.unlink</a>]: No such file or directory	File: upload_process.php	Line: 49	
+2010-06-03 02:51:47 (BST)	2 Warning	rename(/Applications/MAMP/htdocs/oxfordshire/uploads/images_mg_5994.jpg_,/Applications/MAMP/htdocs/oxfordshire/uploads/images_mg_5994.jpg) [<a href='function.rename'>function.rename</a>]: No such file or directory	File: upload_process.php	Line: 41	
+2010-06-03 02:51:47 (BST)	2 Warning	getimagesize(/Applications/MAMP/htdocs/oxfordshire/uploads/images_mg_5994.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory	File: upload_process.php	Line: 48	
+2010-06-03 02:51:47 (BST)	2 Warning	unlink(/Applications/MAMP/htdocs/oxfordshire/uploads/images_mg_5994.jpg) [<a href='function.unlink'>function.unlink</a>]: No such file or directory	File: upload_process.php	Line: 49	
+2010-06-03 02:51:47 (BST)	2 Warning	rename(/Applications/MAMP/htdocs/oxfordshire/uploads/imagesdane_reynolds_jeffreys_bay.jpg_,/Applications/MAMP/htdocs/oxfordshire/uploads/imagesdane_reynolds_jeffreys_bay.jpg) [<a href='function.rename'>function.rename</a>]: No such file or directory	File: upload_process.php	Line: 41	
+2010-06-03 02:51:47 (BST)	2 Warning	getimagesize(/Applications/MAMP/htdocs/oxfordshire/uploads/imagesdane_reynolds_jeffreys_bay.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory	File: upload_process.php	Line: 48	
+2010-06-03 02:51:47 (BST)	2 Warning	unlink(/Applications/MAMP/htdocs/oxfordshire/uploads/imagesdane_reynolds_jeffreys_bay.jpg) [<a href='function.unlink'>function.unlink</a>]: No such file or directory	File: upload_process.php	Line: 49	
+2010-06-03 02:52:24 (BST)	2 Warning	rename(/Applications/MAMP/htdocs/oxfordshire/uploads/images_mg_5994.jpg_,/Applications/MAMP/htdocs/oxfordshire/uploads/images_mg_5994.jpg) [<a href='function.rename'>function.rename</a>]: No such file or directory	File: upload_process.php	Line: 41	
+2010-06-03 02:52:24 (BST)	2 Warning	getimagesize(/Applications/MAMP/htdocs/oxfordshire/uploads/images_mg_5994.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory	File: upload_process.php	Line: 48	
+2010-06-03 02:52:24 (BST)	2 Warning	unlink(/Applications/MAMP/htdocs/oxfordshire/uploads/images_mg_5994.jpg) [<a href='function.unlink'>function.unlink</a>]: No such file or directory	File: upload_process.php	Line: 49	
+2010-06-03 02:52:24 (BST)	2 Warning	rename(/Applications/MAMP/htdocs/oxfordshire/uploads/imagesdane_reynolds_jeffreys_bay.jpg_,/Applications/MAMP/htdocs/oxfordshire/uploads/imagesdane_reynolds_jeffreys_bay.jpg) [<a href='function.rename'>function.rename</a>]: No such file or directory	File: upload_process.php	Line: 41	
+2010-06-03 02:52:24 (BST)	2 Warning	getimagesize(/Applications/MAMP/htdocs/oxfordshire/uploads/imagesdane_reynolds_jeffreys_bay.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory	File: upload_process.php	Line: 48	
+2010-06-03 02:52:24 (BST)	2 Warning	unlink(/Applications/MAMP/htdocs/oxfordshire/uploads/imagesdane_reynolds_jeffreys_bay.jpg) [<a href='function.unlink'>function.unlink</a>]: No such file or directory	File: upload_process.php	Line: 49	
+2010-06-03 02:59:13 (BST)	2 Warning	rename(/Applications/MAMP/htdocs/oxfordshire/uploads/images_mg_5994.jpg_,/Applications/MAMP/htdocs/oxfordshire/uploads/images_mg_5994.jpg) [<a href='function.rename'>function.rename</a>]: No such file or directory	File: upload_process.php	Line: 41	
+2010-06-03 02:59:13 (BST)	2 Warning	getimagesize(/Applications/MAMP/htdocs/oxfordshire/uploads/images_mg_5994.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory	File: upload_process.php	Line: 48	
+2010-06-03 02:59:13 (BST)	2 Warning	unlink(/Applications/MAMP/htdocs/oxfordshire/uploads/images_mg_5994.jpg) [<a href='function.unlink'>function.unlink</a>]: No such file or directory	File: upload_process.php	Line: 49	
+2010-06-03 02:59:13 (BST)	2 Warning	rename(/Applications/MAMP/htdocs/oxfordshire/uploads/imagesdane_reynolds_jeffreys_bay.jpg_,/Applications/MAMP/htdocs/oxfordshire/uploads/imagesdane_reynolds_jeffreys_bay.jpg) [<a href='function.rename'>function.rename</a>]: No such file or directory	File: upload_process.php	Line: 41	
+2010-06-03 02:59:13 (BST)	2 Warning	getimagesize(/Applications/MAMP/htdocs/oxfordshire/uploads/imagesdane_reynolds_jeffreys_bay.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory	File: upload_process.php	Line: 48	
+2010-06-03 02:59:13 (BST)	2 Warning	unlink(/Applications/MAMP/htdocs/oxfordshire/uploads/imagesdane_reynolds_jeffreys_bay.jpg) [<a href='function.unlink'>function.unlink</a>]: No such file or directory	File: upload_process.php	Line: 49	
+2010-06-03 02:59:13 (BST)	2 Warning	rename(/Applications/MAMP/htdocs/oxfordshire/uploads/imagesfile.jpg_,/Applications/MAMP/htdocs/oxfordshire/uploads/imagesfile.jpg) [<a href='function.rename'>function.rename</a>]: No such file or directory	File: upload_process.php	Line: 41	
+2010-06-03 02:59:13 (BST)	2 Warning	getimagesize(/Applications/MAMP/htdocs/oxfordshire/uploads/imagesfile.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory	File: upload_process.php	Line: 48	
+2010-06-03 02:59:13 (BST)	2 Warning	unlink(/Applications/MAMP/htdocs/oxfordshire/uploads/imagesfile.jpg) [<a href='function.unlink'>function.unlink</a>]: No such file or directory	File: upload_process.php	Line: 49	
+2010-06-03 03:01:14 (BST)	2 Warning	imagejpeg() [<a href='function.imagejpeg'>function.imagejpeg</a>]: Unable to open '/Applications/MAMP/htdocs/oxfordshire/uploads/images/_thumbs/__mg_5994.jpg' for writing: No such file or directory	File: fns_tinybrowser.php	Line: 113	
+2010-06-03 03:01:14 (BST)	2 Warning	imagejpeg() [<a href='function.imagejpeg'>function.imagejpeg</a>]: Unable to open '/Applications/MAMP/htdocs/oxfordshire/uploads/images/_thumbs/_dane_reynolds_jeffreys_bay.jpg' for writing: No such file or directory	File: fns_tinybrowser.php	Line: 113	
+2010-06-03 03:01:14 (BST)	2 Warning	imagejpeg() [<a href='function.imagejpeg'>function.imagejpeg</a>]: Unable to open '/Applications/MAMP/htdocs/oxfordshire/uploads/images/_thumbs/_file.jpg' for writing: No such file or directory	File: fns_tinybrowser.php	Line: 113	
+2010-06-03 03:21:05 (BST)	8 Notice	Undefined index:  ../../../../uploads/images/_thumbs/	File: tinybrowser.php	Line: 58	
+2010-06-03 03:22:14 (BST)	8 Notice	Undefined index:  ../../../../uploads/images/_thumbs/	File: tinybrowser.php	Line: 58	
+2010-06-03 03:24:21 (BST)	8 Notice	Undefined index:  ../../../../uploads/images/_thumbs/	File: edit.php	Line: 39	
+2010-07-16 14:06:09 (BST)	2 Warning	mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists	File: fns_tinybrowser.php	Line: 5	
+2010-07-16 14:06:09 (BST)	2 Warning	mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists	File: fns_tinybrowser.php	Line: 5	
+2010-07-16 14:06:09 (BST)	2 Warning	mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists	File: fns_tinybrowser.php	Line: 5	
+2010-07-16 14:06:09 (BST)	2 Warning	mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists	File: fns_tinybrowser.php	Line: 5	
+2010-07-16 14:06:09 (BST)	2 Warning	opendir(/home/sites/space-dog.co.uk/public_htmhttp://testing.space-dog.co.uk/kilv/uploads/images/) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory	File: fns_tinybrowser.php	Line: 363	
+2010-07-16 14:06:09 (BST)	2 Warning	readdir(): supplied argument is not a valid Directory resource	File: fns_tinybrowser.php	Line: 364	
+2010-07-16 14:06:09 (BST)	2 Warning	closedir(): supplied argument is not a valid Directory resource	File: fns_tinybrowser.php	Line: 380	
+2010-07-16 14:07:34 (BST)	2 Warning	mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists	File: fns_tinybrowser.php	Line: 5	
+2010-07-16 14:07:34 (BST)	2 Warning	mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists	File: fns_tinybrowser.php	Line: 5	
+2010-07-16 14:07:34 (BST)	2 Warning	mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists	File: fns_tinybrowser.php	Line: 5	
+2010-07-16 14:07:34 (BST)	2 Warning	mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists	File: fns_tinybrowser.php	Line: 5	
+2010-07-16 14:07:34 (BST)	2 Warning	mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists	File: fns_tinybrowser.php	Line: 5	
+2010-07-16 14:07:34 (BST)	2 Warning	opendir(/home/sites/space-dog.co.uk/public_htmhttp://space-dog.co.uk/testing/kilv/uploads/images/) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory	File: fns_tinybrowser.php	Line: 363	
+2010-07-16 14:07:34 (BST)	2 Warning	readdir(): supplied argument is not a valid Directory resource	File: fns_tinybrowser.php	Line: 364	
+2010-07-16 14:07:34 (BST)	2 Warning	closedir(): supplied argument is not a valid Directory resource	File: fns_tinybrowser.php	Line: 380	
+2010-07-16 14:26:13 (BST)	2 Warning	mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists	File: fns_tinybrowser.php	Line: 5	
+2010-07-16 14:26:13 (BST)	2 Warning	mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists	File: fns_tinybrowser.php	Line: 5	
+2010-07-16 14:26:13 (BST)	2 Warning	mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists	File: fns_tinybrowser.php	Line: 5	
+2010-07-16 14:26:13 (BST)	2 Warning	mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists	File: fns_tinybrowser.php	Line: 5	
+2010-07-16 14:26:13 (BST)	2 Warning	mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists	File: fns_tinybrowser.php	Line: 5	
+2010-07-16 14:26:13 (BST)	2 Warning	opendir(/home/sites/space-dog.co.uk/public_htmhttp://space-dog.co.uk/testing/kilv/uploads/images/) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory	File: fns_tinybrowser.php	Line: 363	
+2010-07-16 14:26:13 (BST)	2 Warning	readdir(): supplied argument is not a valid Directory resource	File: fns_tinybrowser.php	Line: 364	
+2010-07-16 14:26:13 (BST)	2 Warning	closedir(): supplied argument is not a valid Directory resource	File: fns_tinybrowser.php	Line: 380	
+2010-07-16 14:28:09 (BST)	2 Warning	mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists	File: fns_tinybrowser.php	Line: 5	
+2010-07-16 14:28:09 (BST)	2 Warning	mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists	File: fns_tinybrowser.php	Line: 5	
+2010-07-16 14:28:09 (BST)	2 Warning	mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists	File: fns_tinybrowser.php	Line: 5	
+2010-07-16 14:28:09 (BST)	2 Warning	mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists	File: fns_tinybrowser.php	Line: 5	
+2010-07-16 14:28:09 (BST)	2 Warning	mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists	File: fns_tinybrowser.php	Line: 5	
+2010-07-16 14:28:09 (BST)	2 Warning	opendir(/home/sites/space-dog.co.uk/public_htmhttp://space-dog.co.uk/testing/kilv/uploads/images/) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory	File: fns_tinybrowser.php	Line: 363	
+2010-07-16 14:28:09 (BST)	2 Warning	readdir(): supplied argument is not a valid Directory resource	File: fns_tinybrowser.php	Line: 364	
+2010-07-16 14:28:09 (BST)	2 Warning	closedir(): supplied argument is not a valid Directory resource	File: fns_tinybrowser.php	Line: 380	
+2010-07-16 14:32:36 (BST)	2 Warning	mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists	File: fns_tinybrowser.php	Line: 5	
+2010-07-16 14:32:36 (BST)	2 Warning	mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists	File: fns_tinybrowser.php	Line: 5	
+2010-07-16 14:32:36 (BST)	2 Warning	mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists	File: fns_tinybrowser.php	Line: 5	
+2010-07-16 14:32:36 (BST)	2 Warning	mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists	File: fns_tinybrowser.php	Line: 5	
+2010-07-16 14:32:36 (BST)	2 Warning	mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists	File: fns_tinybrowser.php	Line: 5	
+2010-07-16 14:32:36 (BST)	2 Warning	opendir(/home/sites/space-dog.co.uk/public_htmhttp://space-dog.co.uk/testing/kilv/uploads/images/) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory	File: fns_tinybrowser.php	Line: 363	
+2010-07-16 14:32:36 (BST)	2 Warning	readdir(): supplied argument is not a valid Directory resource	File: fns_tinybrowser.php	Line: 364	
+2010-07-16 14:32:36 (BST)	2 Warning	closedir(): supplied argument is not a valid Directory resource	File: fns_tinybrowser.php	Line: 380	
