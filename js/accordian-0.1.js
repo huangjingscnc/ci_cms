@@ -16,7 +16,7 @@
             $('.hasSub').css({
                 "cursor": "pointer"
             });
-            if (settings.style === "accordian") {
+             if (settings.style === "accordian") {
             var hiddenmenus = $(buttons).children("ul");
             $(hiddenmenus).parent("li").addClass("hasSub");
             $(hiddenmenus).addClass('HIDDEN_MENU');
@@ -40,6 +40,9 @@
                     return false;
                 });
             }
+
+
+
             if (settings.style === "dropdown") {
             
             var hiddenmenus = $(buttons).children("ul");
